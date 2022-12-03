@@ -112,7 +112,7 @@ a {
   .now_trend_card {
     width: 270px;
     height: 200px;
-    background-image: url(mq-диплом2/img/trend1.jpg);
+    background-image: url(img/trend1.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -161,7 +161,7 @@ a {
     width: 270px;
     height: 200px;
     margin-left: 5px;
-    background-image: url(mq-диплом2/img/trend2.jpg);
+    background-image: url(img/trend2.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -172,7 +172,7 @@ a {
     width: 270px;
     height: 200px;
     margin-left: 5px;
-    background-image: url(mq-диплом2/img/trend3.jpg);
+    background-image: url(img/trend3.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -183,7 +183,7 @@ a {
     width: 270px;
     height: 200px;
     margin-left: 5px;
-    background-image: url(mq-диплом2/img/trend4.jpg);
+    background-image: url(img/trend4.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
